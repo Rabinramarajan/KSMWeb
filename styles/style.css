@@ -1,0 +1,31 @@
+.services-head {
+    color: #fff;
+    font-size: 18px;
+    font-weight: 800;
+    text-align: center;
+    padding-top: 20px;
+}
+
+.contact-head {
+    color: #000;
+    font-size: 18px;
+    font-weight: 800;
+    text-align: center;
+}
+
+.image-box {
+    position: relative;
+    display: block;
+    overflow: hidden;
+}
+
+.image-box li {
+    position: relative;
+    display: inline-block;
+    overflow: hidden;
+    max-width: 300px;
+    width: 100%;
+    float: left;
+    margin-right: 10px;
+    margin-bottom: 30px;
+}
